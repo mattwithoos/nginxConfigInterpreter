@@ -1,7 +1,7 @@
-README: nginxConfigInterpreter
+README
 ======
 
-** Please submit feature requests to the issue queue, I am open to active development.**
+**Please submit feature requests to the issue queue, I am open to active development.**
 
 The nginxConfigInterpreter takes a standards-compliant nginx server
 configuration file and parses it into a multi-dimensional array.
